@@ -1,13 +1,13 @@
 <div align="center">
 
 ```
-.___  ___.      ___      .__   __.  __   _______     _______. __    __          _______.     ___      .__   __. ____    __    ____  ___       __      
-|   \/   |     /   \     |  \ |  | |  | |   ____|   /       ||  |  |  |        /       |    /   \     |  \ |  | \   \  /  \  /   / /   \     |  |     
-|  \  /  |    /  ^  \    |   \|  | |  | |  |__     |   (----`|  |__|  |       |   (----`   /  ^  \    |   \|  |  \   \/    \/   / /  ^  \    |  |     
-|  |\/|  |   /  /_\  \   |  . `  | |  | |   __|     \   \    |   __   |        \   \      /  /_\  \   |  . `  |   \            / /  /_\  \   |  |     
-|  |  |  |  /  _____  \  |  |\   | |  | |  |____.----)   |   |  |  |  |    .----)   |    /  _____  \  |  |\   |    \    /\    / /  _____  \  |  `----.
-|__|  |__| /__/     \__\ |__| \__| |__| |_______|_______/    |__|  |__|    |_______/    /__/     \__\ |__| \__|     \__/  \__/ /__/     \__\ |_______|
-                                                                                                                                                      
+.___  ___.      ___      .__   __.  __   _______     _______. __    __  
+|   \/   |     /   \     |  \ |  | |  | |   ____|   /       ||  |  |  | 
+|  \  /  |    /  ^  \    |   \|  | |  | |  |__     |   (----`|  |__|  | 
+|  |\/|  |   /  /_\  \   |  . `  | |  | |   __|     \   \    |   __   | 
+|  |  |  |  /  _____  \  |  |\   | |  | |  |____.----)   |   |  |  |  | 
+|__|  |__| /__/     \__\ |__| \__| |__| |_______|_______/    |__|  |__| 
+                                                                         
                                                                                   
 ```
 
@@ -113,10 +113,32 @@ const maniesh: Full Stack Developer = {
 
 ### 🔧 [Kraaft — 300+ Free Online Tools](https://kraaft.manieshsanwal.in)
 > Your one-stop destination for 300+ free online tools. No login required. Fast, private, and built for everyone.
+> Let me be honest — I built this because I was frustrated.
+> Every time I needed a quick tool — compress a PDF… resize an image… format some JSON… check my GST… I'd land on some sketchy website full of ads, popups, and "please create an account to continue."
+> So I built the solution myself. 👇
+- PDF Tools
+- Image Tools
+- Developer Tools
+- Security Tools
+- Video Tools
+- Audio Tools
+- Math Tools
+- Unit Converters
+- Text Tools
+- Design Tools
+- Cryptocurrency Tools
+- Coding Tools
+- Internet Tools
+- Color Tools
+- Accessibility Tools
+- Productivity Tools
+- And many more...
 
-- 🛠️ PDF tools, image tools, developer tools, security tools, video/audio, and more — all in one place
-- ⚡ No signup, no tracking — built for speed and privacy
-- 📦 Covers 15+ tool categories from URL tools to design & color utilities
+✅ 100% Free — forever 
+✅ No login required 
+✅ Privacy-first — runs in your browser 
+✅ Already used by 10,000+ creators, devs & marketers
+And now — it's open source. 🎉
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -125,7 +147,14 @@ const maniesh: Full Stack Developer = {
 ---
 
 ### 🥊 [FightClub](https://fightclub.manieshsanwal.in)
-> A bold, interactive web experience built with modern full-stack tech.
+> 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 -> JavaScript · TypeScript · HTML5 · CSS3
+> 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 -> React.js · Next.js · Tailwind CSS · Framer Motion · GSAP · Three.js · Shadcn UI · Sass
+> 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 -> Node.js · Express.js · Next.js API Routes · REST API · JWT Auth · RBAC
+> 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 -> PostgreSQL · MongoDB · Prisma ORM · Redis · Supabase · Firebase
+> 𝗜𝗻𝗳𝗿𝗮 -> Railway · Neon DB · Cloudflare · Redis · Railway
+> 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗧𝗼𝗼𝗹𝘀 -> Git · GitHub · Vercel · Netlify · Docker (basic) · Postman · VS Code · Figma
+> 𝗗𝗲𝘀𝗶𝗴𝗻 -> Figma · UI/UX Design · Responsive Design · Web Animations
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -134,13 +163,23 @@ const maniesh: Full Stack Developer = {
 ---
 
 ### 🏪 Retail POS System *(In Progress)*
-> Production-grade Point of Sale system built as an npm monorepo — React PWA cashier terminal + Next.js manager dashboard + Express API.
+> 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 → React 18 + Vite PWA + Nextjs for manager dashboard 
+Offline-first with Dexie.js (IndexedDB) for the cashier terminal. Each role gets its own route tree — cashier, dept manager, store manager, admin never share the same UI shell.
 
-- 🧾 Full sales, inventory, GRN, purchase orders, and stock transfer flows
-- 💳 Razorpay payments integration (Cash · UPI · Card)
-- 📦 Prisma ORM on Neon PostgreSQL — type-safe, schema-first migrations
-- ⚡ Redis (Upstash) + BullMQ for queues and offline transaction sync
-- 🔐 Role-based access: Admin · Manager · Cashier · Warehouse
+> 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 → Node.js + Express + TypeScript
+Stateless JWT auth carrying role, permissions, shiftId, and terminalId. Every route gated by a requirePermission() middleware — not just a role check, but a granular action string like pos:void or reports:view.
+
+> 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 → PostgreSQL 16 + Redis
+Row-Level Security at the DB layer means a department manager literally cannot query another dept's rows — even if there's a bug in app code. Redis handles caching, pub/sub stock broadcasts, and BullMQ job queues.
+
+> 𝗜𝗻𝗳𝗿𝗮 → Vercel · Railway · Neon DB · Redis · Cloudflare Images
+
+𝗥𝗕𝗔𝗖 𝗮𝘁 𝗲𝘃𝗲𝗿𝘆 𝗹𝗮𝘆𝗲𝗿:
+→ JWT permissions in the token
+→ requirePermission() on every API route
+→ RLS policies in PostgreSQL
+→ Role-scoped cache keys in Redis
+→ Append-only audit log for every void, discount & override
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
@@ -175,62 +214,34 @@ const maniesh: Full Stack Developer = {
 
 <br/>
 
-<!-- Yearly Contributions Bar Chart (Mermaid) -->
+<!-- Yearly Contributions Bar Chart -->
 <div align="center">
 
 ### 📈 Yearly Contribution Growth
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#E45901', 'primaryTextColor': '#c9d1d9', 'xyChart': {'backgroundColor': '#0d1117', 'titleColor': '#E45901', 'xAxisLabelColor': '#c9d1d9', 'yAxisLabelColor': '#c9d1d9', 'plotColorPalette': '#E45901'}}}}%%
-xychart-beta
-    title "Consistent Growth Year Over Year"
-    x-axis [2021, 2022, 2023, 2024, 2025]
-    y-axis "Contributions" 0 --> 1600
-    bar [420, 780, 1100, 1350, 1450]
-    line [420, 780, 1100, 1350, 1450]
-```
+<img src="./assets/charts/yearly-contributions.svg" alt="Yearly Contributions" width="700"/>
 
 </div>
 
 <br/>
 
-<!-- Skill Proficiency Radar (Table with visual bars) -->
+<!-- Skill Proficiency Radar Chart -->
 <div align="center">
 
 ### 🎯 Skill Proficiency
 
-| Technology | Proficiency | Level |
-|:---|:---|:---:|
-| **TypeScript** | `████████████████████` | 98% |
-| **JavaScript** | `███████████████████░` | 97% |
-| **React / Next.js** | `███████████████████░` | 95% |
-| **Node.js / Express** | `██████████████████░░` | 93% |
-| **PostgreSQL** | `██████████████████░░` | 90% |
-| **MongoDB** | `█████████████████░░░` | 88% |
-| **Prisma ORM** | `█████████████████░░░` | 85% |
-| **Redis** | `████████████████░░░░` | 82% |
-| **Docker** | `████████████████░░░░` | 80% |
-| **AWS / GCP / Azure** | `███████████████░░░░░` | 75% |
+<img src="./assets/charts/skill-proficiency.svg" alt="Skill Proficiency Radar" width="550"/>
 
 </div>
 
 <br/>
 
-<!-- Language Distribution Pie Chart (Mermaid) -->
+<!-- Language Distribution Donut Chart -->
 <div align="center">
 
 ### 💻 Language Distribution
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#E45901', 'primaryTextColor': '#c9d1d9', 'pie1': '#E45901', 'pie2': '#FF8C42', 'pie3': '#FFB366', 'pie4': '#c9d1d9', 'pie5': '#6e7681', 'pie6': '#30363d', 'pieTitleTextSize': '16px', 'pieTitleTextColor': '#E45901', 'pieSectionTextColor': '#0d1117', 'pieSectionTextSize': '14px', 'pieLegendTextColor': '#c9d1d9', 'pieLegendTextSize': '14px', 'pieOuterStrokeColor': '#0d1117'}}}%%
-pie title Based on 50+ Repositories
-    "TypeScript" : 42
-    "JavaScript" : 25
-    "CSS / SCSS" : 13
-    "HTML" : 8
-    "SQL" : 8
-    "Shell" : 4
-```
+<img src="./assets/charts/language-distribution.svg" alt="Language Distribution" width="600"/>
 
 </div>
 
