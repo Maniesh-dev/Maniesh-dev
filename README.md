@@ -116,22 +116,10 @@ const maniesh: Full Stack Developer = {
 > Let me be honest — I built this because I was frustrated.
 > Every time I needed a quick tool — compress a PDF… resize an image… format some JSON… check my GST… I'd land on some sketchy website full of ads, popups, and "please create an account to continue."
 > So I built the solution myself. 👇
-- PDF Tools
-- Image Tools
-- Developer Tools
-- Security Tools
-- Video Tools
-- Audio Tools
-- Math Tools
-- Unit Converters
-- Text Tools
-- Design Tools
-- Cryptocurrency Tools
-- Coding Tools
-- Internet Tools
-- Color Tools
-- Accessibility Tools
-- Productivity Tools
+> PDF Tools - Image Tools - Developer Tools - Security Tools
+> Video Tools - Audio Tools - Math Tools - Unit Converters
+> Text Tools - Design Tools - Cryptocurrency Tools - Coding Tools
+> Internet Tools - Color Tools - Accessibility Tools - Productivity Tools
 - And many more...
 
 ✅ 100% Free — forever 
@@ -140,24 +128,51 @@ const maniesh: Full Stack Developer = {
 ✅ Already used by 10,000+ creators, devs & marketers
 And now — it's open source. 🎉
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000?style=flat-square&logo=shadcnui&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 **[→ Live](https://kraaft.manieshsanwal.in)**
 
 ---
 
 ### 🥊 [FightClub](https://fightclub.manieshsanwal.in)
-> 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 -> JavaScript · TypeScript · HTML5 · CSS3
-> 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 -> React.js · Next.js · Tailwind CSS · Framer Motion · GSAP · Three.js · Shadcn UI · Sass
-> 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 -> Node.js · Express.js · Next.js API Routes · REST API · JWT Auth · RBAC
-> 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 -> PostgreSQL · MongoDB · Prisma ORM · Redis · Supabase · Firebase
-> 𝗜𝗻𝗳𝗿𝗮 -> Railway · Neon DB · Cloudflare · Redis · Railway
-> 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗧𝗼𝗼𝗹𝘀 -> Git · GitHub · Vercel · Netlify · Docker (basic) · Postman · VS Code · Figma
-> 𝗗𝗲𝘀𝗶𝗴𝗻 -> Figma · UI/UX Design · Responsive Design · Web Animations
+> - 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 -> JavaScript · TypeScript · HTML5 · CSS3
+> - 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 -> React.js · Next.js · Tailwind CSS · Framer Motion · GSAP · Three.js · Shadcn UI · Sass
+> - 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 -> Node.js · Express.js · Next.js API Routes · REST API · JWT Auth · RBAC
+> - 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 -> PostgreSQL · MongoDB · Prisma ORM · Redis · Supabase · Firebase
+> - 𝗜𝗻𝗳𝗿𝗮 -> Railway · Neon DB · Cloudflare · Redis · Railway
+> - 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗧𝗼𝗼𝗹𝘀 -> Git · GitHub · Vercel · Netlify · Docker (basic) · Postman · VS Code · Figma
+> - 𝗗𝗲𝘀𝗶𝗴𝗻 -> Figma · UI/UX Design · Responsive Design · Web Animations
 
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000?style=flat-square&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000?style=flat-square&logo=shadcnui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 **[→ Live](https://fightclub.manieshsanwal.in)**
 
 ---
@@ -181,21 +196,34 @@ Row-Level Security at the DB layer means a department manager literally cannot q
 → Role-scoped cache keys in Redis
 → Append-only audit log for every void, discount & override
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React_PWA-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Neon_PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E45901?style=flat-square&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ---
 
 ### 🌐 [Portfolio Website](https://manieshsanwal.in)
 > Personal portfolio — UI/UX Designer + Full Stack Developer. Built with Next.js, featuring smooth animations and a bold creative aesthetic.
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000?style=flat-square&logo=framer&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 **[→ Live](https://manieshsanwal.in)**
 
 ---
