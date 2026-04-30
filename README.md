@@ -1,12 +1,14 @@
 <div align="center">
 
 ```
- ███╗   ███╗ █████╗ ███╗   ██╗██╗███████╗███████╗██╗  ██╗    ███████╗ █████╗ ███╗   ██╗██╗    ██╗ █████╗ ██╗
- ████╗ ████║██╔══██╗████╗  ██║██║██╔════╝██╔════╝██║  ██║    ██╔════╝██╔══██╗████╗  ██║██║    ██║██╔══██╗██║
- ██╔████╔██║███████║██╔██╗ ██║██║█████╗  ███████╗███████║    ███████╗███████║██╔██╗ ██║██║ █╗ ██║███████║██║
- ██║╚██╔╝██║██╔══██║██║╚██╗██║██║██╔══╝  ╚════██║██╔══██║    ╚════██║██╔══██║██║╚██╗██║██║███╗██║██╔══██║██║
- ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║███████╗███████║██║  ██║    ███████║██║  ██║██║ ╚████║╚███╔███╔╝██║  ██║███████╗
- ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝
+.___  ___.      ___      .__   __.  __   _______     _______. __    __          _______.     ___      .__   __. ____    __    ____  ___       __      
+|   \/   |     /   \     |  \ |  | |  | |   ____|   /       ||  |  |  |        /       |    /   \     |  \ |  | \   \  /  \  /   / /   \     |  |     
+|  \  /  |    /  ^  \    |   \|  | |  | |  |__     |   (----`|  |__|  |       |   (----`   /  ^  \    |   \|  |  \   \/    \/   / /  ^  \    |  |     
+|  |\/|  |   /  /_\  \   |  . `  | |  | |   __|     \   \    |   __   |        \   \      /  /_\  \   |  . `  |   \            / /  /_\  \   |  |     
+|  |  |  |  /  _____  \  |  |\   | |  | |  |____.----)   |   |  |  |  |    .----)   |    /  _____  \  |  |\   |    \    /\    / /  _____  \  |  `----.
+|__|  |__| /__/     \__\ |__| \__| |__| |_______|_______/    |__|  |__|    |_______/    /__/     \__\ |__| \__|     \__/  \__/ /__/     \__\ |_______|
+                                                                                                                                                      
+                                                                                  
 ```
 
 ### Creative · Designer · Developer
@@ -110,24 +112,11 @@ const maniesh: Full Stack Developer = {
 ## 🚀 Featured Projects
 
 ### 🔧 [Kraaft — 300+ Free Online Tools](https://kraaft.manieshsanwal.in)
-> Introducing Kraaft — your one-stop destination for 300+ free browser tools across 36 categories:
+> Your one-stop destination for 300+ free online tools. No login required. Fast, private, and built for everyone.
 
-🖼️ Image Tools — compress, resize, convert, remove backgrounds 
-📄 PDF Tools — merge, split, compress, protect 
-💻 Developer Tools — JSON formatter, Base64, regex tester, hash generator 🤖 AI & Content Tools — AI text detector, humanizer, plagiarism checker 
-🔒 Security & Privacy — password generator, encryptor, IP lookup 
-💰 Finance & Business — GST calculator, EMI planner, invoice generator 
-🎵 Audio & Music — BPM detector, vocals remover, pitch changer …and 270+ more tools across 36 categories
-
-
-✅ 100% Free — forever 
-✅ No login required 
-✅ Privacy-first — runs in your browser 
-✅ Already used by 10,000+ creators, devs & marketers
-And now — it's open source. 🎉
-
-> I'm a self-taught developer with no tech background. This project is proof that you don't need a degree to build something real and useful.
-> If you're a developer — I'd love your contributions, feedback, and stars ⭐ If you're a creator or marketer — bookmark this, you'll thank me later.
+- 🛠️ PDF tools, image tools, developer tools, security tools, video/audio, and more — all in one place
+- ⚡ No signup, no tracking — built for speed and privacy
+- 📦 Covers 15+ tool categories from URL tools to design & color utilities
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -136,12 +125,7 @@ And now — it's open source. 🎉
 ---
 
 ### 🥊 [FightClub](https://fightclub.manieshsanwal.in)
-> 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 : JavaScript · TypeScript · HTML5 · CSS3
-> 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 : React.js · Next.js · Tailwind CSS · Framer Motion · GSAP · Three.js · Shadcn UI · Sass
-> 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 : Node.js · Express.js · Next.js API Routes · REST API · JWT Auth · RBAC
-> 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 : PostgreSQL · MongoDB · Prisma ORM · Redis · Supabase · Firebase
-> 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗧𝗼𝗼𝗹𝘀 : Git · GitHub · Vercel · Netlify · Docker (basic) · Postman · VS Code
-> 𝗗𝗲𝘀𝗶𝗴𝗻 : Figma · UI/UX Design · Responsive Design · Web Animations
+> A bold, interactive web experience built with modern full-stack tech.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -150,21 +134,13 @@ And now — it's open source. 🎉
 ---
 
 ### 🏪 Retail POS System *(In Progress)*
-> 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 → React 18 + Vite PWA + Nextjs for manager dashboard 
-Offline-first with Dexie.js (IndexedDB) for the cashier terminal. Each role gets its own route tree — cashier, dept manager, store manager, admin never share the same UI shell.
+> Production-grade Point of Sale system built as an npm monorepo — React PWA cashier terminal + Next.js manager dashboard + Express API.
 
-> 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 → Node.js + Express + TypeScript
-Stateless JWT auth carrying role, permissions, shiftId, and terminalId. Every route gated by a requirePermission() middleware — not just a role check, but a granular action string like pos:void or reports:view.
-
-> 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 → PostgreSQL 16 + Redis
-Row-Level Security at the DB layer means a department manager literally cannot query another dept's rows — even if there's a bug in app code. Redis handles caching, pub/sub stock broadcasts, and BullMQ job queues.
-
-> 𝗥𝗕𝗔𝗖 𝗮𝘁 𝗲𝘃𝗲𝗿𝘆 𝗹𝗮𝘆𝗲𝗿:
-→ JWT permissions in the token
-→ requirePermission() on every API route
-→ RLS policies in PostgreSQL
-→ Role-scoped cache keys in Redis
-→ Append-only audit log for every void, discount & override
+- 🧾 Full sales, inventory, GRN, purchase orders, and stock transfer flows
+- 💳 Razorpay payments integration (Cash · UPI · Card)
+- 📦 Prisma ORM on Neon PostgreSQL — type-safe, schema-first migrations
+- ⚡ Redis (Upstash) + BullMQ for queues and offline transaction sync
+- 🔐 Role-based access: Admin · Manager · Cashier · Warehouse
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
@@ -199,45 +175,80 @@ Row-Level Security at the DB layer means a department manager literally cannot q
 
 <br/>
 
-<!-- Yearly Contributions Bar Chart -->
+<!-- Yearly Contributions Bar Chart (Mermaid) -->
 <div align="center">
 
 ### 📈 Yearly Contribution Growth
 
-<img src="https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%272021%27%2C%272022%27%2C%272023%27%2C%272024%27%2C%272025%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Contributions%27%2Cdata%3A%5B420%2C780%2C1100%2C1350%2C1450%5D%2CbackgroundColor%3A%5B%27rgba(228%2C89%2C1%2C0.4)%27%2C%27rgba(228%2C89%2C1%2C0.5)%27%2C%27rgba(228%2C89%2C1%2C0.6)%27%2C%27rgba(228%2C89%2C1%2C0.8)%27%2C%27rgba(228%2C89%2C1%2C1)%27%5D%2CborderColor%3A%27rgba(228%2C89%2C1%2C1)%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Blabels%3A%7Bcolor%3A%27%23c9d1d9%27%7D%7D%7D%2Cscales%3A%7By%3A%7Bticks%3A%7Bcolor%3A%27%23c9d1d9%27%7D%2Cgrid%3A%7Bcolor%3A%27%2330363d%27%7D%7D%2Cx%3A%7Bticks%3A%7Bcolor%3A%27%23c9d1d9%27%7D%2Cgrid%3A%7Bcolor%3A%27%2330363d%27%7D%7D%7D%7D%7D&backgroundColor=%230d1117&width=700&height=350" alt="Yearly Contributions" width="700"/>
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#E45901', 'primaryTextColor': '#c9d1d9', 'xyChart': {'backgroundColor': '#0d1117', 'titleColor': '#E45901', 'xAxisLabelColor': '#c9d1d9', 'yAxisLabelColor': '#c9d1d9', 'plotColorPalette': '#E45901'}}}}%%
+xychart-beta
+    title "Consistent Growth Year Over Year"
+    x-axis [2021, 2022, 2023, 2024, 2025]
+    y-axis "Contributions" 0 --> 1600
+    bar [420, 780, 1100, 1350, 1450]
+    line [420, 780, 1100, 1350, 1450]
+```
 
 </div>
 
 <br/>
 
-<!-- Skill Radar Chart -->
+<!-- Skill Proficiency Radar (Table with visual bars) -->
 <div align="center">
 
-### 🎯 Skill Proficiency Radar
+### 🎯 Skill Proficiency
 
-<img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27React%2FNext.js%27%2C%27Node.js%27%2C%27TypeScript%27%2C%27PostgreSQL%27%2C%27MongoDB%27%2C%27Redis%27%2C%27Docker%27%2C%27AWS%2FCloud%27%2C%27Prisma%27%2C%27Testing%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Proficiency%27%2Cdata%3A%5B95%2C93%2C98%2C90%2C88%2C82%2C80%2C75%2C85%2C78%5D%2CbackgroundColor%3A%27rgba(228%2C89%2C1%2C0.25)%27%2CborderColor%3A%27rgba(228%2C89%2C1%2C1)%27%2CpointBackgroundColor%3A%27rgba(228%2C89%2C1%2C1)%27%2CpointBorderColor%3A%27%23fff%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Blabels%3A%7Bcolor%3A%27%23c9d1d9%27%7D%7D%7D%2Cscales%3A%7Br%3A%7BangleLines%3A%7Bcolor%3A%27%2330363d%27%7D%2Cgrid%3A%7Bcolor%3A%27%2330363d%27%7D%2CpointLabels%3A%7Bcolor%3A%27%23c9d1d9%27%2Cfont%3A%7Bsize%3A11%7D%7D%2Cticks%3A%7Bdisplay%3Afalse%7D%2CsuggestedMin%3A0%2CsuggestedMax%3A100%7D%7D%7D%7D&backgroundColor=%230d1117&width=550&height=550" alt="Skill Radar" width="500"/>
+| Technology | Proficiency | Level |
+|:---|:---|:---:|
+| **TypeScript** | `████████████████████` | 98% |
+| **JavaScript** | `███████████████████░` | 97% |
+| **React / Next.js** | `███████████████████░` | 95% |
+| **Node.js / Express** | `██████████████████░░` | 93% |
+| **PostgreSQL** | `██████████████████░░` | 90% |
+| **MongoDB** | `█████████████████░░░` | 88% |
+| **Prisma ORM** | `█████████████████░░░` | 85% |
+| **Redis** | `████████████████░░░░` | 82% |
+| **Docker** | `████████████████░░░░` | 80% |
+| **AWS / GCP / Azure** | `███████████████░░░░░` | 75% |
 
 </div>
 
 <br/>
 
-<!-- Language Distribution Doughnut -->
+<!-- Language Distribution Pie Chart (Mermaid) -->
 <div align="center">
 
 ### 💻 Language Distribution
 
-<img src="https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27TypeScript%27%2C%27JavaScript%27%2C%27CSS%2FSCSS%27%2C%27HTML%27%2C%27SQL%27%2C%27Shell%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B42%2C25%2C13%2C8%2C8%2C4%5D%2CbackgroundColor%3A%5B%27%23E45901%27%2C%27%23FF8C42%27%2C%27%23FFB366%27%2C%27%23c9d1d9%27%2C%27%236e7681%27%2C%27%2330363d%27%5D%2CborderColor%3A%27%230d1117%27%2CborderWidth%3A3%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7Bcolor%3A%27%23c9d1d9%27%2Cfont%3A%7Bsize%3A12%7D%2Cpadding%3A15%7D%7D%7D%7D%7D&backgroundColor=%230d1117&width=600&height=350" alt="Language Distribution" width="550"/>
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#E45901', 'primaryTextColor': '#c9d1d9', 'pie1': '#E45901', 'pie2': '#FF8C42', 'pie3': '#FFB366', 'pie4': '#c9d1d9', 'pie5': '#6e7681', 'pie6': '#30363d', 'pieTitleTextSize': '16px', 'pieTitleTextColor': '#E45901', 'pieSectionTextColor': '#0d1117', 'pieSectionTextSize': '14px', 'pieLegendTextColor': '#c9d1d9', 'pieLegendTextSize': '14px', 'pieOuterStrokeColor': '#0d1117'}}}%%
+pie title Based on 50+ Repositories
+    "TypeScript" : 42
+    "JavaScript" : 25
+    "CSS / SCSS" : 13
+    "HTML" : 8
+    "SQL" : 8
+    "Shell" : 4
+```
 
 </div>
 
 <br/>
 
-<!-- Coding Metrics Horizontal Bar -->
+<!-- Coding Metrics Bar Chart (Mermaid) -->
 <div align="center">
 
-### ⚡ Coding Metrics
+### ⚡ What I Ship
 
-<img src="https://quickchart.io/chart?c=%7Btype%3A%27horizontalBar%27%2Cdata%3A%7Blabels%3A%5B%27Production%20Apps%27%2C%27Database%20Schemas%27%2C%27CI%2FCD%20Pipelines%27%2C%27Unit%20Tests%20(x100)%27%2C%27PWAs%20Built%27%2C%27npm%20Packages%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Count%27%2Cdata%3A%5B8%2C15%2C12%2C5%2C3%2C3%5D%2CbackgroundColor%3A%27rgba(228%2C89%2C1%2C0.8)%27%2CborderColor%3A%27rgba(228%2C89%2C1%2C1)%27%2CborderWidth%3A1%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7Bx%3A%7Bticks%3A%7Bcolor%3A%27%23c9d1d9%27%7D%2Cgrid%3A%7Bcolor%3A%27%2330363d%27%7D%7D%2Cy%3A%7Bticks%3A%7Bcolor%3A%27%23c9d1d9%27%7D%2Cgrid%3A%7Bcolor%3A%27%2330363d%27%7D%7D%7D%7D%7D&backgroundColor=%230d1117&width=650&height=320" alt="Coding Metrics" width="600"/>
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#E45901', 'primaryTextColor': '#c9d1d9', 'xyChart': {'backgroundColor': '#0d1117', 'titleColor': '#E45901', 'xAxisLabelColor': '#c9d1d9', 'yAxisLabelColor': '#c9d1d9', 'plotColorPalette': '#E45901'}}}}%%
+xychart-beta
+    title "Production Output"
+    x-axis ["Apps Deployed", "DB Schemas", "CI/CD Pipes", "Tests (x100)", "PWAs", "npm Pkgs"]
+    y-axis "Count" 0 --> 18
+    bar [8, 15, 12, 5, 3, 3]
+```
 
 </div>
 
