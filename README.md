@@ -11,7 +11,7 @@
 
 ### Creative · Designer · Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E45901&center=true&vCenter=true&width=700&lines=Discover+Define+Design+Develop+Deploy;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript+%7C+MongoDB+%7C+PostgreSQL;Portfolio+manieshsanwal.in;Engaging+%2B+User+Experience+%2B+world+class+web+design+%2B+&*+%26+Development+%2B+Unique+Brand+Identity+%26+solutions+to+shine)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E45901&center=true&vCenter=true&width=700&lines=Discover+>+Define+>+Design+>+Develop+>+Deploy;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Portfolio+>+manieshsanwal.in;Engaging+%2B+User+Experience+%2B+world+class+web+design+%2B+&*+%26+Development+%2B+Unique+Brand+Identity+%26+solutions+to+shine)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-manieshsanwal.in-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://manieshsanwal.in)
 <!-- [![Kraaft](https://img.shields.io/badge/Kraaft-300%2B_Free_Tools-00D4AA?style=for-the-badge&logo=lightning&logoColor=white)](https://kraaft.manieshsanwal.in) -->
@@ -161,7 +161,7 @@ const maniesh: Full Stack Developer = {
 
 ## 📊 GitHub Stats & Activity
 
-<!-- Key Metrics — at-a-glance numbers -->
+<!-- Key Metrics Badges -->
 <div align="center">
 
 ![Total Commits](https://img.shields.io/badge/Total_Commits-3,200+-E45901?style=for-the-badge&logo=git&logoColor=white)
@@ -173,54 +173,56 @@ const maniesh: Full Stack Developer = {
 
 <br/>
 
-<!-- Yearly Contribution & Streak -->
+<!-- Yearly Contributions Bar Chart -->
 <div align="center">
 
-![2025 Contributions](https://img.shields.io/badge/2025_Contributions-1,450+-0d1117?style=for-the-badge&logo=github&logoColor=E45901)
-![Current Streak](https://img.shields.io/badge/🔥_Current_Streak-120+_Days-E45901?style=for-the-badge)
-![Longest Streak](https://img.shields.io/badge/🏆_Longest_Streak-240+_Days-0d1117?style=for-the-badge&logoColor=E45901)
+### 📈 Yearly Contribution Growth
+
+<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['2021','2022','2023','2024','2025'],datasets:[{label:'Contributions',data:[420,780,1100,1350,1450],backgroundColor:['rgba(228,89,1,0.4)','rgba(228,89,1,0.5)','rgba(228,89,1,0.6)','rgba(228,89,1,0.8)','rgba(228,89,1,1)'],borderColor:'rgba(228,89,1,1)',borderWidth:2}]},options:{plugins:{legend:{labels:{color:'%23c9d1d9'}},title:{display:true,text:'Consistent Growth Year Over Year',color:'%23E45901',font:{size:14}}},scales:{y:{ticks:{color:'%23c9d1d9'},grid:{color:'%2330363d'}},x:{ticks:{color:'%23c9d1d9'},grid:{color:'%2330363d'}}}}}&backgroundColor=%230d1117&width=700&height=350" alt="Yearly Contributions" width="700"/>
 
 </div>
 
 <br/>
 
-<!-- Language Proficiency -->
+<!-- Skill Radar Chart -->
 <div align="center">
 
-### 💻 Language & Framework Proficiency
+### 🎯 Skill Proficiency Radar
 
-| Technology | Proficiency | Experience |
-|:---:|:---:|:---:|
-| **TypeScript** | `████████████████████` 98% | 3+ years |
-| **JavaScript** | `████████████████████` 97% | 4+ years |
-| **React / Next.js** | `███████████████████░` 95% | 3+ years |
-| **Node.js / Express** | `███████████████████░` 93% | 3+ years |
-| **PostgreSQL** | `██████████████████░░` 90% | 2+ years |
-| **MongoDB** | `█████████████████░░░` 88% | 2+ years |
-| **Prisma ORM** | `█████████████████░░░` 85% | 2+ years |
-| **Redis** | `████████████████░░░░` 82% | 1+ year |
-| **Docker** | `████████████████░░░░` 80% | 1+ year |
-| **AWS / GCP / Azure** | `███████████████░░░░░` 75% | 1+ year |
+<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['React/Next.js','Node.js','TypeScript','PostgreSQL','MongoDB','Redis','Docker','AWS/Cloud','Prisma','Testing'],datasets:[{label:'Proficiency',data:[95,93,98,90,88,82,80,75,85,78],backgroundColor:'rgba(228,89,1,0.25)',borderColor:'rgba(228,89,1,1)',pointBackgroundColor:'rgba(228,89,1,1)',pointBorderColor:'%23fff',borderWidth:2}]},options:{plugins:{legend:{labels:{color:'%23c9d1d9'}}},scales:{r:{angleLines:{color:'%2330363d'},grid:{color:'%2330363d'},pointLabels:{color:'%23c9d1d9',font:{size:11}},ticks:{display:false},suggestedMin:0,suggestedMax:100}}}}&backgroundColor=%230d1117&width=550&height=550" alt="Skill Radar" width="500"/>
 
 </div>
 
 <br/>
 
-<!-- Coding Metrics -->
+<!-- Language Distribution Doughnut -->
+<div align="center">
+
+### 💻 Language Distribution
+
+<img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['TypeScript','JavaScript','CSS/SCSS','HTML','SQL','Shell'],datasets:[{data:[42,25,13,8,8,4],backgroundColor:['%23E45901','%23FF8C42','%23FFB366','%23c9d1d9','%236e7681','%2330363d'],borderColor:'%230d1117',borderWidth:3}]},options:{plugins:{legend:{position:'right',labels:{color:'%23c9d1d9',font:{size:12},padding:15}},title:{display:true,text:'Based on 50+ Repositories',color:'%236e7681',font:{size:11}}}}}&backgroundColor=%230d1117&width=600&height=350" alt="Language Distribution" width="550"/>
+
+</div>
+
+<br/>
+
+<!-- Coding Metrics Horizontal Bar -->
 <div align="center">
 
 ### ⚡ Coding Metrics
 
-| Metric | Value |
-|:---:|:---:|
-| 🏗️ **Production Apps Deployed** | **8+** |
-| 📦 **npm Packages Published** | **3** |
-| 🧪 **Unit Tests Written** | **500+** |
-| 🔄 **CI/CD Pipelines Configured** | **12+** |
-| 📱 **PWAs Built** | **3** |
-| 🗄️ **Database Schemas Designed** | **15+** |
-| 💳 **Payment Integrations** | Razorpay · Stripe |
-| 🌍 **Projects with 1K+ Users** | **2** |
+<img src="https://quickchart.io/chart?c={type:'horizontalBar',data:{labels:['Production Apps','Database Schemas','CI/CD Pipelines','Unit Tests (x100)','PWAs Built','npm Packages'],datasets:[{label:'Count',data:[8,15,12,5,3,3],backgroundColor:'rgba(228,89,1,0.8)',borderColor:'rgba(228,89,1,1)',borderWidth:1}]},options:{plugins:{legend:{display:false},title:{display:true,text:'What I Ship',color:'%23E45901',font:{size:14}}},scales:{x:{ticks:{color:'%23c9d1d9'},grid:{color:'%2330363d'}},y:{ticks:{color:'%23c9d1d9'},grid:{color:'%2330363d'}}}}}&backgroundColor=%230d1117&width=650&height=320" alt="Coding Metrics" width="600"/>
+
+</div>
+
+<br/>
+
+<!-- Streak & Consistency -->
+<div align="center">
+
+![Current Streak](https://img.shields.io/badge/🔥_Current_Streak-120+_Days-E45901?style=for-the-badge)
+![Longest Streak](https://img.shields.io/badge/🏆_Longest_Streak-240+_Days-0d1117?style=for-the-badge&logoColor=E45901)
+![2025 Contributions](https://img.shields.io/badge/2025_Contributions-1,450+-0d1117?style=for-the-badge&logo=github&logoColor=E45901)
 
 </div>
 
@@ -238,11 +240,11 @@ const maniesh: Full Stack Developer = {
 
 <br/>
 
-[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-E45901?style=for-the-badge&logoColor=white)](mailto:manieshsanwal@gmail.com)
+[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-E45901?style=for-the-badge&logoColor=white)](mailto:manieshsanwal.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-manieshsanwal.in-0d1117?style=for-the-badge)](https://manieshsanwal.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manieshsanwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maniesh-sanwal)
 [![GitHub](https://img.shields.io/badge/GitHub-Maniesh--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maniesh-dev)
-[![Email](https://img.shields.io/badge/Email-manieshsanwal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manieshsanwal@gmail.com)
+[![Email](https://img.shields.io/badge/Email-[EMAIL_ADDRESS]-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[EMAIL_ADDRESS])
 
 </div>
 
