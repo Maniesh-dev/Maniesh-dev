@@ -11,10 +11,10 @@
 
 ### Creative · Designer · Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E45901&center=true&vCenter=true&width=700&lines=Discover+Define+Design+Develop+Deploy;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;300%2B+Portfolio+manieshsanwal.in;Design+%2B+Code+%2B+Ship+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E45901&center=true&vCenter=true&width=700&lines=Discover+Define+Design+Develop+Deploy;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript+%7C+MongoDB+%7C+PostgreSQL;Portfolio+manieshsanwal.in;Engaging+%2B+User+Experience+%2B+world+class+web+design+%2B+&*+%26+Development+%2B+Unique+Brand+Identity+%26+solutions+to+shine)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-manieshsanwal.in-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://manieshsanwal.in)
-[![Kraaft](https://img.shields.io/badge/Kraaft-300%2B_Free_Tools-00D4AA?style=for-the-badge&logo=lightning&logoColor=white)](https://kraaft.manieshsanwal.in)
+<!-- [![Kraaft](https://img.shields.io/badge/Kraaft-300%2B_Free_Tools-00D4AA?style=for-the-badge&logo=lightning&logoColor=white)](https://kraaft.manieshsanwal.in) -->
 
 </div>
 
@@ -35,7 +35,7 @@ const maniesh: Full Stack Developer = {
   cache:     ["Redis", "Upstash"],
   payments:  ["Razorpay", "Stripe"],
   infra:     ["Railway", "Vercel", "Neon PostgreSQL", "Railway"],
-  tools:     ["Git", "VS Code", "Postman", "Figma", "Docker", "AWS", "GCP", "Azure", "Heroku", "Netlify", "Vercel", "DigitalOcean", "Cloudflare", "Firebase", "MongoDB Atlas", "Supabase", "PostgreSQL", "MySQL", "Redis", "Cloudflare", "AWS", "GCP", "Azure", "Heroku", "Netlify", "Vercel", "DigitalOcean", "Cloudflare", "Firebase", "MongoDB Atlas", "Supabase", "PostgreSQL", "MySQL", "Redis", "React PWA", "Shadcn UI", "Framer Motion", "SCSS", "Tailwind CSS", "Vite", "redux", "redux toolkit", "react-query", "zustand", "react-hook-form"],
+  tools:     ["Git", "VS Code", "Postman", "Figma", "Docker", "AWS", "Azure", "Heroku", "Netlify", "Vercel", "Cloudflare", "Firebase", "MongoDB Atlas", "Supabase", "PostgreSQL", "MySQL", "Redis", "React PWA", "Shadcn UI", "Framer Motion", "SCSS", "Tailwind CSS", "Vite", "redux", "redux toolkit", "react-query", "zustand", "react-hook-form"],
   
 
   openTo:            "Full-time · Freelance · Collaborations",
@@ -156,33 +156,85 @@ const maniesh: Full Stack Developer = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
+<!-- GitHub Trophies — shows achievement breadth -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maniesh-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniesh-dev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Maniesh-dev&theme=darkhub&no-frame=true&no-bg=true&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultipleLang" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<!-- Core Stats + Top Languages side by side -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maniesh-dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=E45901&icon_color=E45901&text_color=c9d1d9&ring_color=E45901&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniesh-dev&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=E45901&text_color=c9d1d9" height="180"/>
+</div>
+
+<br/>
+
+<!-- Streak — proves consistency & commitment -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maniesh-dev&hide_border=true&background=0d1117&stroke=30363d&ring=E45901&fire=E45901&currStreakLabel=E45901&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<!-- Profile Summary Cards — detailed breakdown for hiring managers -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maniesh-dev&theme=github_dark" width="95%" alt="Contribution Details"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maniesh-dev&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maniesh-dev&theme=github_dark" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maniesh-dev&theme=github_dark" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maniesh-dev&theme=github_dark&utcOffset=5.5" height="160"/>
+</div>
+
+<br/>
+
+<!-- Activity Graph — visual proof of active development -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maniesh-dev&bg_color=0d1117&color=c9d1d9&line=E45901&point=E45901&area=true&area_color=E45901&hide_border=true" alt="Contribution Graph" width="95%"/>
+</div>
+
+<br/>
+
+<!-- Snake Contribution Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Maniesh-dev/Maniesh-dev/output/github-snake-dark.svg" alt="Snake animation" width="95%"/>
 </div>
 
 ---
 
-## 📬 Let's Connect
+## 💼 Open to Opportunities
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-manieshsanwal.in-6C63FF?style=for-the-badge&logo=vercel)](https://manieshsanwal.in)
-[![GitHub](https://img.shields.io/badge/GitHub-Maniesh--dev-181717?style=for-the-badge&logo=github)](https://github.com/Maniesh-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manieshsanwal)
+> 🚀 **Full Stack Developer** actively looking for **Full-time**, **Freelance**, and **Collaboration** opportunities.
+>
+> I build production-grade web applications with **React**, **Next.js**, **Node.js**, **TypeScript**, and **PostgreSQL**.
+>
+> If you're looking for a developer who ships fast and builds to last — **let's talk.**
+
+<br/>
+
+[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-E45901?style=for-the-badge&logoColor=white)](mailto:manieshsanwal@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-manieshsanwal.in-0d1117?style=for-the-badge)](https://manieshsanwal.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manieshsanwal)
+[![GitHub](https://img.shields.io/badge/GitHub-Maniesh--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maniesh-dev)
+[![Email](https://img.shields.io/badge/Email-manieshsanwal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manieshsanwal@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maniesh-dev&style=for-the-badge&color=6C63FF"/>
+  <img src="https://komarev.com/ghpvc/?username=Maniesh-dev&style=for-the-badge&color=E45901"/>
+  
+  <br/><br/>
 
   **"Design it. Build it. Ship it."**
+  
+  <sub>⭐ If you like my work, consider giving my repos a star — it means a lot!</sub>
 </div>
